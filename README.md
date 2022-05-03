@@ -1,0 +1,2 @@
+# AnsibleAWX
+AnsibleAWX dynamic inventory
